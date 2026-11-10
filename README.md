@@ -2,7 +2,7 @@
 
 **Cyber Threat Intelligence \| Investigation \| MITRE ATT\&CK \| Security Reporting**
 
-📍 London · (https://www.linkedin.com/in/stephenogidan) · olastica01@gmail.com
+📍 London · https://www.linkedin.com/in/stephenogidan · olastica01@gmail.com
 
 ## Professional profile
 
@@ -58,11 +58,5 @@ Every featured case study includes a scenario, scope and authorization, my indiv
 - **Frameworks and standards:** \[Only those actually used\]  
 - **Certifications / courses:** \[Verified certifications and training\]  
 - **Current focus:** \[Specific technical growth goal\]
-
-## Contact
-
-- **LinkedIn:** \[URL\]  
-- **Email:** \[Professional email\]  
-- **GitHub:** \[Profile URL\]
 
 ---
