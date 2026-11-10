@@ -2,13 +2,11 @@
 
 **Cyber Threat Intelligence \| Investigation \| MITRE ATT\&CK \| Security Reporting**
 
-📍 \London\ · \(LinkedIn URL](https://www.linkedin.com/in/stephenogidan/)\ · \olastica01@gmail.com\
+📍 London · (https://www.linkedin.com/in/stephenogidan) · olastica01@gmail.com
 
 ## Professional profile
 
 I am a **Cybersecurity Analyst \| Threat Intelligence & Security Analysis** developing practical expertise through authorized security operations, supervised assignments, and independent technical projects. My portfolio documents **what I did, how I did it, the evidence I produced, and what I learned**. I distinguish simulated exercises from live operational work and identify my individual contribution to team activities.
-
-> **Customize before publishing:** Replace all bracketed placeholders. Only claim tools, responsibilities, years of experience, and outcomes you can verify. State your actual relationship with Halisans Technologies (employee, intern, trainee, or mentee) and dates accurately.
 
 ## Practical experience \| Halisans Technologies
 
