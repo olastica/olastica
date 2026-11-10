@@ -1,4 +1,4 @@
-# \OLASUNKANMI OGIDAN\ \| Cybersecurity Analyst \| Threat Intelligence & Security Analysis
+# OLASUNKANMI OGIDAN \| Cybersecurity Analyst \| Threat Intelligence & Security Analysis
 
 **Cyber Threat Intelligence \| Investigation \| MITRE ATT\&CK \| Security Reporting**
 
