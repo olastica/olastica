@@ -1,8 +1,8 @@
-# \[OLASUNKANMI OGIDAN\] \| Cybersecurity Analyst \| Threat Intelligence & Security Analysis
+# \OLASUNKANMI OGIDAN\ \| Cybersecurity Analyst \| Threat Intelligence & Security Analysis
 
 **Cyber Threat Intelligence \| Investigation \| MITRE ATT\&CK \| Security Reporting**
 
-📍 \[London\] · \[[LinkedIn URL](https://www.linkedin.com/in/stephenogidan/)\] · \[olastica01@gmail.com\]
+📍 \London\ · \(LinkedIn URL](https://www.linkedin.com/in/stephenogidan/)\ · \olastica01@gmail.com\
 
 ## Professional profile
 
